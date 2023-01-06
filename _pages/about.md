@@ -20,4 +20,4 @@ Hello! I am Adriano Valadar and I am a Software Developer.
 
 My main languages are C and C++. I also know Java and Python and I am interested in learning Rust in a near future.
 
-I have a MSc degree in Electrical Engineering.
+I have a MsC degree in Electrical Engineering.
